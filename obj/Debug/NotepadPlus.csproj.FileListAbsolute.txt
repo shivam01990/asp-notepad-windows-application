@@ -1,0 +1,23 @@
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\bin\Debug\NotepadPlus.exe
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\bin\Debug\NotepadPlus.pdb
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.ParentForm.resources
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.Properties.Resources.resources
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.csproj.GenerateResource.Cache
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.exe
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.pdb
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.ChildForm.resources
+C:\Documents and Settings\Abu\Desktop\2008\NotepadPlus\NotepadPlus\obj\Debug\NotepadPlus.FindBox.resources
+D:\Comdex\Project Book\C# Project Book\CD\Projects\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.exe
+D:\Comdex\Project Book\C# Project Book\CD\Projects\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.pdb
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.exe
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.pdb
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\bin\Debug\NotepadPlus.exe
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\bin\Debug\NotepadPlus.pdb
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\ResolveAssemblyReference.cache
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.ChildForm.resources
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.FindBox.resources
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.ParentForm.resources
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\NotepadPlus.Properties.Resources.resources
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\ResGen.read.1.tlog
+G:\my study material\asp projects\windows project\Code\2008\NotepadPlus\obj\Debug\ResGen.write.1.tlog
